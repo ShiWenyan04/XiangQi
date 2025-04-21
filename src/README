@@ -1,4 +1,4 @@
-compile it: javac ChineseChess.java
-run it: java ChineseChess
+# compile it: javac ChineseChess.java
+# run it: java ChineseChess
 
-pvp中国象棋，暂未实现人机对战
+# pvp中国象棋，暂未实现人机对战
